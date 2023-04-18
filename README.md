@@ -7,7 +7,7 @@ Ver en "localhost:8200"
 Https ver en "localhost:443"
 
 -----------------------------
-Usuario acceso BBDD : root
+Usuario acceso BBDD : User
 
 Clave acceso BBDD : p4ssw0rd 
 
@@ -17,3 +17,5 @@ Servidor BBDD para sysPass: db
 
 -----------------------------
 Modo hosting: marcar
+
+Preferentemente usar los navegadores: Chrome, Edge, Firefox.
