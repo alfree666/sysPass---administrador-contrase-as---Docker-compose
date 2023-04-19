@@ -5,6 +5,7 @@ sysPass - administrador contraseñas - Docker compose
 Ver en "localhost:8200"
 
 https ver en "localhost:8443"
+
 -----------------------------
 Usuario acceso BBDD : User
 
@@ -15,6 +16,7 @@ Nombre de la base de datos de sysPass: syspass
 Servidor BBDD para sysPass: db
 
 Modo hosting: marcar
+
 -----------------------------
 Preferentemente usar los navegadores: Chrome, Edge, Firefox.
 
