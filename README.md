@@ -4,7 +4,7 @@ sysPass - administrador contraseñas - Docker compose
 
 Ver en "localhost:8200"
 
-https ver en "localhost:443"
+https ver en "localhost:8443"
 
 -----------------------------
 Usuario acceso BBDD : User
@@ -19,6 +19,9 @@ Modo hosting: marcar
 -----------------------------
 
 Preferentemente usar los navegadores: Chrome, Edge, Firefox.
+
+Para usar este tipo de aplicaciones es muy recomendable usar SSL - https//....
+para garantizar la seguridad de los datos
 
 -----------------------------
 
