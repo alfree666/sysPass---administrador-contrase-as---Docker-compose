@@ -5,7 +5,6 @@ sysPass - administrador contraseñas - Docker compose
 Ver en "localhost:8200"
 
 https ver en "localhost:8443"
-
 -----------------------------
 Usuario acceso BBDD : User
 
@@ -17,7 +16,6 @@ Servidor BBDD para sysPass: db
 
 Modo hosting: marcar
 -----------------------------
-
 Preferentemente usar los navegadores: Chrome, Edge, Firefox.
 
 Para usar este tipo de aplicaciones es muy recomendable usar SSL - https//....
@@ -59,6 +57,6 @@ Al acceder a una web donde haya una cuenta creada en SysPass, si se hace click e
 extensión, esta mostrará las cuentas que se han creado, si se vuelve a hacer click en una de
 estas, la extensión rellenará los campos para iniciar sesión.
 
-**ESTA DOCUMENTACIÓN HA SIDO CREADA POR: Santana Redoli Gustavo **
+**ESTA DOCUMENTACIÓN HA SIDO CREADA POR: Santana Redoli Gustavo**
 
 
