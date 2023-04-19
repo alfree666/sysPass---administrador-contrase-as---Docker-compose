@@ -56,5 +56,6 @@ Al acceder a una web donde haya una cuenta creada en SysPass, si se hace click e
 extensión, esta mostrará las cuentas que se han creado, si se vuelve a hacer click en una de
 estas, la extensión rellenará los campos para iniciar sesión.
 
+**ESTA DOCUMENTACIÓN HA SIDO CREADA POR: Santana Redoli Gustavo -**
 
 
